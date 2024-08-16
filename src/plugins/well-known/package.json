@@ -1,0 +1,15 @@
+{
+  "name": "well-known",
+  "version": "0.0.0",
+  "description": "Plugin to return well known files",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {},
+  "strapi": {
+    "name": "well-known",
+    "description": "Plugin to return well known files",
+    "kind": "plugin",
+    "displayName": "Well Known"
+  }
+}
